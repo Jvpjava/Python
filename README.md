@@ -56,13 +56,13 @@ Lecture recordings from **2025** are available for early viewing.
   - [x] `Exercise` [Minutes in a year](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
   - [x] `Exercise` [Print some code](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
 
-### 2\. Information from the User
+### [2\. Information from the User](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
 
-  - [ ] `Exercise` Name twice
-  - [ ] `Exercise` Name and exclamation marks
-  - [ ] `Exercise` Name and address
-  - [ ] `Exercise` Fix the code: Utterances
-  - [ ] `Exercise` Story
+- [x] `Exercise` [Name twice](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Name and exclamation marks](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Name and address](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Fix the code: Utterances](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Story](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
 
 ### 3\. More About Variables
 
