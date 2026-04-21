@@ -50,7 +50,7 @@ Lecture recordings from **2025** are available for early viewing.
 
 ### 1\. Getting Started
 
-  - [ ] `Exercise` [https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py](Emoticon)
+  - [ ] `Exercise` [Emoticon](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
   - [ ] `Exercise` Fix the code: Seven Brothers
   - [ ] `Exercise` Row, Row, Row Your Boat
   - [ ] `Exercise` Minutes in a year
