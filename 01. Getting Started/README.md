@@ -6,11 +6,11 @@ This repository contains the exercises for **Part 1** of the University of Helsi
 
 ### 1. Getting Started
 Focuses on the basic structure of a Python program and the `print` command.
-- [ ] `Exercise` Emoticon
-- [ ] `Exercise` Fix the code: Seven Brothers
-- [ ] `Exercise` Row, Row, Row Your Boat
-- [ ] `Exercise` Minutes in a year
-- [ ] `Exercise` Print some code
+- [ ] `Exercise` [Emoticon](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
+- [ ] `Exercise` [Fix the code: Seven Brothers](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)           
+- [ ] `Exercise` [Row, Row, Row Your Boat](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
+- [ ] `Exercise` [Minutes in a year](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
+- [ ] `Exercise` [Print some code](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
 
 ### 2. Information from the User
 Introduction to the `input()` function and string concatenation.
