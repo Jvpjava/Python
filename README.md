@@ -123,7 +123,7 @@ To pass either course, you must fulfill the following criteria:
 - [ ] `Quiz` Feedback, part 2
 
 ---
-<h1>Part 3: Flow Control, String Manipulation, and Functional Logic</h1>4
+<h1>Part 3: Flow Control, String Manipulation, and Functional Logic</h1>
 
 ### 10\. Loops with conditions
 - [ ] `Programming exercise` Print numbers
