@@ -1,9 +1,3 @@
-If you want a dedicated `README.md` specifically for the **"Getting Started"** sub-directory in your repository, here is a clean and functional version. 
-
-This uses GitHub’s task list syntax so you can track your progress as you code.
-
----
-
 # Part 1: Getting Started
 
 This section covers the foundational concepts of programming, including basic output and syntax. These exercises are part of the **Introduction to Programming (BSCS1001)** course.
