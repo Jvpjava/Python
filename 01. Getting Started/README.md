@@ -1,4 +1,4 @@
-Part 1: Foundations of Programming
+# Part 1: Foundations of Programming
 
 This repository contains the exercises for **Part 1** of the University of Helsinki's Python programming curriculum. This section covers basic output, user input, variables, arithmetic, and conditional logic.
 
