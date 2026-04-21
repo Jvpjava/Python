@@ -65,7 +65,7 @@ To pass either course, you must fulfill the following criteria:
 - [ ] `Exercise` Arithmetics
 - [ ] `Exercise` Fix the code: Print a single line
 
-### 4.\ Arithmetic operations
+### 4\. Arithmetic operations
 - [ ] `Exercise` Times five
 - [ ] `Exercise` Name and age
 - [ ] `Exercise` Seconds in a day
@@ -75,7 +75,7 @@ To pass either course, you must fulfill the following criteria:
 - [ ] `Exercise` Food expenditure
 - [ ] `Exercise` Students in groups
 
-### 5.\ Conditional statements
+### 5\. Conditional statements
 - [ ] `Exercise` Orwell
 - [ ] `Exercise` Absolute value
 - [ ] `Exercise` Soup or no soup
@@ -89,261 +89,85 @@ To pass either course, you must fulfill the following criteria:
 - [ ] `Quiz` Feedback, part 1
 
 ---
+<h1>Part 2: Loops with Conditions, Strings, and Functions</h1>
 
-## <a name="part-2"></a>Part 2: Terminology & Loops
-### 6.\ Programming terminology
-- [ ] `Exercise` Fix the syntax
-- [ ] `Exercise` Number of characters
-- [ ] `Exercise` Typecasting
-### More conditionals
-- [ ] `Exercise` Age of maturity
-- [ ] `Exercise` Greater than or equal to
-- [ ] `Exercise` The elder
-- [ ] `Exercise` Alphabetically last
-### Combining conditions
-- [ ] `Exercise` Age check
-- [ ] `Exercise` Nephews
-- [ ] `Exercise` Grades and points
-- [ ] `Exercise` FizzBuzz
-- [ ] `Exercise` Leap year
-- [ ] `Exercise` Alphabetically in the middle
-- [ ] `Exercise` Gift tax calculator
-### Simple loops
-- [ ] `Exercise` Shall we continue?
-- [ ] `Exercise` Input validation
-- [ ] `Exercise` Fix the code: Countdown
-- [ ] `Exercise` Repeat password
-- [ ] `Exercise` PIN and number of attempts
-- [ ] `Exercise` The next leap year
-- [ ] `Exercise` Story
-- [ ] `Exercise` Working with numbers
+### 6\. Programming terminology
+- [ ] `Programming exercise` Fix the syntax
+- [ ] `Programming exercise` Number of characters
+- [ ] `Programming exercise` Typecasting
+
+### 7\. More conditionals
+- [ ] `Programming exercise` Age of maturity
+- [ ] `Programming exercise` Greater than or equal to
+- [ ] `Programming exercise` The elder
+- [ ] `Programming exercise` Alphabetically last
+
+### 8\. Combining conditions
+- [ ] `Programming exercise` Age check
+- [ ] `Programming exercise` Nephews
+- [ ] `Programming exercise` Grades and points
+- [ ] `Programming exercise` FizzBuzz
+- [ ] `Programming exercise` Leap year
+- [ ] `Programming exercise` Alphabetically in the middle
+- [ ] `Programming exercise` Gift tax calculator
+
+### 9\. Simple loops
+- [ ] `Programming exercise` Shall we continue?
+- [ ] `Programming exercise` Input validation
+- [ ] `Programming exercise` Fix the code: Countdown
+- [ ] `Programming exercise` Repeat password
+- [ ] `Programming exercise` PIN and number of attempts
+- [ ] `Programming exercise` The next leap year
+- [ ] `Programming exercise` Story
+- [ ] `Programming exercise` Working with numbers
 - [ ] `Quiz` Feedback, part 2
 
 ---
+<h1>Part 3: Flow Control, String Manipulation, and Functional Logic</h1>4
 
-## <a name="part-3"></a>Part 3: Strings & Functions
-### Loops with conditions
-- [ ] `Exercise` Print numbers
-- [ ] `Exercise` Fix the code: Countdown
-- [ ] `Exercise` Numbers
-- [ ] `Exercise` Powers of two
-- [ ] `Exercise` Powers of base n
-- [ ] `Exercise` The sum of consecutive numbers, version 1
-- [ ] `Exercise` The sum of consecutive numbers, version 2
-### Working with strings
-- [ ] `Exercise` String multiplied
-- [ ] `Exercise` The longer string
-- [ ] `Exercise` End to beginning
-- [ ] `Exercise` Second and second to last characters
-- [ ] `Exercise` A line of hashes
-- [ ] `Exercise` A rectangle of hashes
-- [ ] `Exercise` Underlining
-- [ ] `Exercise` Right-aligned
-- [ ] `Exercise` A framed word
-- [ ] `Exercise` Substrings, part 1
-- [ ] `Exercise` Substrings, part 2
-- [ ] `Exercise` Does it contain vowels
-- [ ] `Exercise` Find the first substring
-- [ ] `Exercise` Find all the substrings
-- [ ] `Exercise` The second occurrence
-### More loops
-- [ ] `Exercise` Multiplication
-- [ ] `Exercise` First letters of words
-- [ ] `Exercise` Factorial
-- [ ] `Exercise` Flip the pairs
-- [ ] `Exercise` Taking turns
-### Defining functions
-- [ ] `Exercise` Seven Brothers
-- [ ] `Exercise` The first character
-- [ ] `Exercise` Mean
-- [ ] `Exercise` Print many times
-- [ ] `Exercise` A square of hashes
-- [ ] `Exercise` Chessboard
-- [ ] `Exercise` A word squared
+### 10\. Loops with conditions
+- [ ] `Programming exercise` Print numbers
+- [ ] `Programming exercise` Fix the code: Countdown
+- [ ] `Programming exercise` Numbers
+- [ ] `Programming exercise` Powers of two
+- [ ] `Programming exercise` Powers of base n
+- [ ] `Programming exercise` The sum of consecutive numbers, version 1
+- [ ] `Programming exercise` The sum of consecutive numbers, version 2
+
+### 11\. Working with strings
+- [ ] `Programming exercise` String multiplied
+- [ ] `Programming exercise` The longer string
+- [ ] `Programming exercise` End to beginning
+- [ ] `Programming exercise` Second and second to last characters
+- [ ] `Programming exercise` A line of hashes
+- [ ] `Programming exercise` A rectangle of hashes
+- [ ] `Programming exercise` Underlining
+- [ ] `Programming exercise` Right-aligned
+- [ ] `Programming exercise` A framed word
+- [ ] `Programming exercise` Substrings, part 1
+- [ ] `Programming exercise` Substrings, part 2
+- [ ] `Programming exercise` Does it contain vowels
+- [ ] `Programming exercise` Find the first substring
+- [ ] `Programming exercise` Find all the substrings
+- [ ] `Programming exercise` The second occurrence
+
+### 12\. More loops
+- [ ] `Programming exercise` Multiplication
+- [ ] `Programming exercise` First letters of words
+- [ ] `Programming exercise` Factorial
+- [ ] `Programming exercise` Flip the pairs
+- [ ] `Programming exercise` Taking turns
+
+### 13\. Defining functions
+- [ ] `Programming exercise` Seven Brothers
+- [ ] `Programming exercise` The first character
+- [ ] `Programming exercise` Mean
+- [ ] `Programming exercise` Print many times
+- [ ] `Programming exercise` A square of hashes
+- [ ] `Programming exercise` Chessboard
+- [ ] `Programming exercise` A word squared
 - [ ] `Quiz` Feedback, part 3
-
 ---
-
-## <a name="part-4"></a>Part 4: Lists & Debugging
-### Visual Studio Code
-- [ ] `Exercise` Hello Visual Studio Code
-### More functions
-- [ ] `Exercise` Line
-- [ ] `Exercise` A box of hashes
-- [ ] `Exercise` A square of hashes
-- [ ] `Exercise` A square
-- [ ] `Exercise` A triangle
-- [ ] `Exercise` A shape
-- [ ] `Exercise` A spruce
-- [ ] `Exercise` The greatest number
-- [ ] `Exercise` Same characters
-- [ ] `Exercise` First, second and last words
-### Lists
-- [ ] `Exercise` Change the value of an item
-- [ ] `Exercise` Add items to a list
-- [ ] `Exercise` Addition and removal
-- [ ] `Exercise` Same word twice
-- [ ] `Exercise` List twice
-- [ ] `Exercise` The length of a list
-- [ ] `Exercise` Arithmetic mean
-- [ ] `Exercise` The range of a list
-### Definite iteration
-- [ ] `Exercise` Star-studded
-- [ ] `Exercise` From negative to positive
-- [ ] `Exercise` List of stars
-- [ ] `Exercise` Anagrams
-- [ ] `Exercise` Palindromes
-- [ ] `Exercise` The sum of positive numbers
-- [ ] `Exercise` Even numbers
-- [ ] `Exercise` The sum of lists
-- [ ] `Exercise` Distinct numbers
-- [ ] `Exercise` The length of the longest in the list
-- [ ] `Exercise` The shortest in the list
-- [ ] `Exercise` All the longest in the list
-### Formatting & Advanced Strings
-- [ ] `Exercise` Integers to strings
-- [ ] `Exercise` Everything reversed
-- [ ] `Exercise` Most common character
-- [ ] `Exercise` No vowels allowed
-- [ ] `Exercise` No shouting allowed
-- [ ] `Exercise` Neighbours in a list
-- [ ] `Exercise` Grade statistics
-- [ ] `Quiz` Feedback, part 4
-
----
-
-## <a name="part-5"></a>Part 5: Dictionaries & Tuples
-### More lists & References
-- [ ] `Exercise` The longest string
-- [ ] `Exercise` Number of matching elements
-- [ ] `Exercise` Go
-- [ ] `Exercise` Sudoku: check row
-- [ ] `Exercise` Sudoku: check column
-- [ ] `Exercise` Sudoku: check block
-- [ ] `Exercise` Sudoku: check grid
-- [ ] `Exercise` Items multiplied by two
-- [ ] `Exercise` Remove the smallest
-- [ ] `Exercise` Tic-Tac-Toe
-- [ ] `Exercise` Transpose a matrix
-### Dictionaries
-- [ ] `Exercise` Times ten
-- [ ] `Exercise` Factorials
-- [ ] `Exercise` Histogram
-- [ ] `Exercise` Phone book, version 1
-- [ ] `Exercise` Phone book, version 2
-- [ ] `Exercise` Invert a dictionary
-- [ ] `Exercise` Numbers spelled out
-- [ ] `Exercise` Movie database
-- [ ] `Exercise` Find movies
-### Tuples
-- [ ] `Exercise` Create a tuple
-- [ ] `Exercise` The oldest person
-- [ ] `Exercise` Older people
-- [ ] `Exercise` Student database
-- [ ] `Exercise` A square of letters
-- [ ] `Quiz` Feedback, Part 5
-
----
-
-## <a name="part-6"></a>Part 6: File Handling
-### Reading & Writing Files
-- [ ] `Exercise` Largest number
-- [ ] `Exercise` Fruit market
-- [ ] `Exercise` Matrix
-- [ ] `Exercise` Course grading, part 1-4
-- [ ] `Exercise` Spell checker
-- [ ] `Exercise` Recipe search
-- [ ] `Exercise` City bikes
-- [ ] `Exercise` Inscription
-- [ ] `Exercise` Diary
-- [ ] `Exercise` Filtering contents
-- [ ] `Exercise` Word search
-### Error Handling
-- [ ] `Exercise` Reading input
-- [ ] `Exercise` Parameter validation
-- [ ] `Exercise` Incorrect lottery numbers
-- [ ] `Quiz` Feedback, Part 6
-
----
-
-## <a name="part-7"></a>Part 7: Modules & Data
-### Modules & Randomness
-- [ ] `Exercise` Hypotenuse | Special characters | Fractions
-- [ ] `Exercise` Lottery numbers | Password generator | Dice roller
-### Data Processing
-- [ ] `Exercise` Handling JSON files
-- [ ] `Exercise` Course statistics
-- [ ] `Exercise` Who cheated
-- [ ] `Exercise` Spell checker, version 2
-### Final Part 1 Tasks
-- [ ] `Exercise` String helper
-- [ ] `Exercise` Your own programming language
-- [ ] `Quiz` Course Feedback
-
----
-
-## <a name="part-8"></a>Part 8: Objects & Classes
-- [ ] `Exercise` The smallest average result
-- [ ] `Exercise` Row sums
-- [ ] `Exercise` List of years
-- [ ] `Exercise` Shopping list
-- [ ] `Exercise` Book | Three classes | Pet | The older book
-- [ ] `Exercise` Decreasing counter
-- [ ] `Exercise` Stopwatch | Clock | LunchCard | Series
-- [ ] `Quiz` Feedback, part 8
-
----
-
-## <a name="part-9"></a>Part 9: References & Encapsulation
-- [ ] `Exercise` Fastest car | Baby Centre | PaymentTerminal
-- [ ] `Exercise` Pets | Box of presents | Shortest person
-- [ ] `Exercise` Car | Recording | Weather station
-- [ ] `Exercise` Service charge | Postcodes | List helper
-- [ ] `Exercise` Item, Suitcase and Cargo hold
-- [ ] `Quiz` Feedback, part 9
-
----
-
-## <a name="part-10"></a>Part 10: Hierarchies
-- [ ] `Exercise` Laptop computer | Game Museum | Areas | Word game
-- [ ] `Exercise` Supergroup | Secret magic potion
-- [ ] `Exercise` Money | Simple date | Iterable shopping list
-- [ ] `Exercise` Phone book expansion (v1 & v2) | CourseRecords
-- [ ] `Quiz` Feedback, part 10
-
----
-
-## <a name="part-11"></a>Part 11: List Comprehensions & Recursion
-- [ ] `Exercise` Square roots | Rows of stars | Begin with a vowel
-- [ ] `Exercise` Filter forbidden | Price difference | Most common words
-- [ ] `Exercise` Recursive sum | Balance all the brackets
-- [ ] `Exercise` Bosses and subordinates | Order book application
-- [ ] `Quiz` Feedback, part 11
-
----
-
-## <a name="part-12"></a>Part 12: Functional Programming
-- [ ] `Exercise` Sort by stock/seasons/ratings | ClimbingRoute | BallPlayers
-- [ ] `Exercise` Generators: Even numbers | Prime numbers
-- [ ] `Exercise` Attempted courses | Filtering attempts
-- [ ] `Exercise` Regular expressions | Hockey statistics
-- [ ] `Quiz` Feedback, part 12
-
----
-
-## <a name="part-13"></a>Part 13: Graphics (Pygame)
-- [ ] `Exercise` Four robots | Robots in a row | Random robots
-- [ ] `Exercise` Vertical movement | Bouncing ball | Robot invasion
-- [ ] `Exercise` Four directions | Two players | Robot and mouse
-- [ ] `Exercise` Asteroids
-- [ ] `Quiz` Feedback, part 13
-
----
-
-## <a name="part-14"></a>Part 14: Final Project
-- [ ] `Quiz` Own game
-- [ ] `Quiz` Feedback, part 14
-- [ ] `Quiz` Final quiz, Advanced Course
 
 ---
 *University of Helsinki - Department of Computer Science*
