@@ -1,39 +1,68 @@
-# Part 1: Getting Started
+Part 1: Foundations of Programming
 
-This section covers the foundational concepts of programming, including basic output and syntax. These exercises are part of the **Introduction to Programming (BSCS1001)** course.
+This repository contains the exercises for **Part 1** of the University of Helsinki's Python programming curriculum. This section covers basic output, user input, variables, arithmetic, and conditional logic.
 
-## 🎯 Learning Objectives
-* Understand the basic structure of a program.
-* Learn how to produce output using print statements.
-* Practice fixing syntax errors in existing code.
+## 📑 Course Sections
 
-## 🛠️ Programming Exercises
+### 1. Getting Started
+Focuses on the basic structure of a Python program and the `print` command.
+- [ ] `Exercise` Emoticon
+- [ ] `Exercise` Fix the code: Seven Brothers
+- [ ] `Exercise` Row, Row, Row Your Boat
+- [ ] `Exercise` Minutes in a year
+- [ ] `Exercise` Print some code
 
-Complete the following tasks to finish this section:
+### 2. Information from the User
+Introduction to the `input()` function and string concatenation.
+- [ ] `Exercise` Name twice
+- [ ] `Exercise` Name and exclamation marks
+- [ ] `Exercise` Name and address
+- [ ] `Exercise` Fix the code: Utterances
+- [ ] `Exercise` Story
 
-- [ ] **1. Emoticon**
-  - *Goal:* Create a program that prints a simple emoticon to the console.
-- [ ] **2. Fix the Code: Seven Brothers**
-  - *Goal:* Debug a provided script to ensure the names of the "Seven Brothers" print correctly.
-- [ ] **3. Row, Row, Row Your Boat**
-  - *Goal:* Use print statements to output the lyrics of the classic nursery rhyme.
-- [ ] **4. Minutes in a Year**
-  - *Goal:* Use basic arithmetic within a print statement to calculate and display the total minutes in a standard year.
-- [ ] **5. Print Some Code**
-  - *Goal:* Practice printing characters that are usually reserved for syntax (like quotes or braces).
+### 3. More About Variables
+Deep dive into string and numeric variables.
+- [ ] `Quiz` Background information
+- [ ] `Exercise` Extra space
+- [ ] `Exercise` Arithmetics
+- [ ] `Exercise` Fix the code: Print a single line
+
+### 4. Arithmetic Operations
+Performing calculations, handling integers and floats, and calculating means.
+- [ ] `Exercise` Times five
+- [ ] `Exercise` Name and age
+- [ ] `Exercise` Seconds in a day
+- [ ] `Exercise` Fix the code: Product
+- [ ] `Exercise` Sum and product
+- [ ] `Exercise` Sum and mean
+- [ ] `Exercise` Food expenditure
+- [ ] `Exercise` Students in groups
+
+### 5. Conditional Statements
+Control flow using `if`, `else`, and comparison operators.
+- [ ] `Exercise` Orwell
+- [ ] `Exercise` Absolute value
+- [ ] `Exercise` Soup or no soup
+- [ ] `Exercise` Order of magnitude
+- [ ] `Exercise` Calculator
+- [ ] `Exercise` Temperatures
+- [ ] `Exercise` Daily wages
+- [ ] `Exercise` Loyalty bonus
+- [ ] `Exercise` What to wear tomorrow
+- [ ] `Exercise` Solving a quadratic equation
+- [ ] `Quiz` Feedback, part 1
 
 ---
 
-## 🚀 How to Run
-To run the solution for any exercise, navigate to the specific file and use:
+## 🛠️ Requirements
+* **Python 3.x**
+* Recommended Editor: **Visual Studio Code** with the **Test My Code (TMC)** extension.
 
+## 🚀 Getting Started
+To run any of the exercise files locally:
 ```bash
-python3 exercise_name.py
+python3 name_of_exercise.py
 ```
 
-## 📝 Notes
 > [!TIP]
-> Remember that the Python interpreter is very strict about indentation. If you encounter an `IndentationError`, double-check your spacing!
-
----
-*University of Helsinki - Department of Computer Science*
+> **Stuck?** Check the official Discord or reach out via the support email mentioned in the main directory.
