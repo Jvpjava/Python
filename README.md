@@ -48,7 +48,7 @@ Lecture recordings from **2025** are available for early viewing.
 
 ## 📚 Curriculum: Part 1
 
-### 1\. Getting Started
+### [1\. Getting Started](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
 
   - [ ] `Exercise` [Emoticon](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
   - [ ] `Exercise` [Fix the code: Seven Brothers](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
