@@ -7,14 +7,6 @@ Welcome to the official course material for the Department of Computer Science a
 
 -----
 
-## 🗓️ Important Dates
-
-  * **Course Start:** January 12th, 2026
-  * **Course End:** December 31st, 2026
-  * **Next Lecture Series:** Autumn 2026
-
------
-
 ## 🎓 Requirements for Completion
 
 To pass either course, you must fulfill the following criteria:
@@ -27,22 +19,25 @@ To pass either course, you must fulfill the following criteria:
 
 -----
 
-## 💬 Support Channels
+## 🗺️ Table of Contents
+<details>
+<summary>Click to expand curriculum map</summary>
 
-We provide multiple ways to get help throughout the year:
-
-  * **Discord (Primary):** Join our community for real-time discussion: [Link to Discord](https://www.google.com/search?q=%23)
-  * **On-Campus:** Visit the workshop guidance sessions for face-to-face help.
-  * **Email:** Contact teachers directly at `ohjelmoinnin-mooc@helsinki.fi`.
-
------
-
-## 📺 Lectures
-
-Lecture recordings from **2025** are available for early viewing.
-
-> [\!NOTE]
-> Please ignore dates and practical information mentioned in the 2025 videos, as they do not apply to the 2026 academic year.
+- [Part 1: Foundations](#part-1)
+- [Part 2: Terminology & Loops](#part-2)
+- [Part 3: Strings & Functions](#part-3)
+- [Part 4: Lists & Debugging](#part-4)
+- [Part 5: Dictionaries & Tuples](#part-5)
+- [Part 6: File Handling](#part-6)
+- [Part 7: Modules & Data](#part-7)
+- [Part 8: Objects & Classes](#part-8)
+- [Part 9: References & Encapsulation](#part-9)
+- [Part 10: Hierarchies](#part-10)
+- [Part 11: List Comprehensions & Recursion](#part-11)
+- [Part 12: Functional Programming](#part-12)
+- [Part 13: Graphics (Pygame)](#part-13)
+- [Part 14: Final Project](#part-14)
+</details>
 
 -----
 
@@ -56,42 +51,123 @@ Lecture recordings from **2025** are available for early viewing.
   - [x] `Exercise` [Minutes in a year](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
   - [x] `Exercise` [Print some code](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/01.Getting_Started.py)
 
-### 2\. Information from the User
+### [2\. Information from the User](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
 
-  - [ ] `Exercise` Name twice
-  - [ ] `Exercise` Name and exclamation marks
-  - [ ] `Exercise` Name and address
-  - [ ] `Exercise` Fix the code: Utterances
-  - [ ] `Exercise` Story
+- [x] `Exercise` [Name twice](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Name and exclamation marks](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Name and address](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Fix the code: Utterances](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
+- [x] `Exercise` [Story](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
 
-### 3\. More About Variables
+### 3\. More about variables
+- [x] `Quiz` Background information
+- [ ] `Exercise` Extra space
+- [ ] `Exercise` Arithmetics
+- [ ] `Exercise` Fix the code: Print a single line
 
-  - [ ] `Quiz` Background information
-  - [ ] `Exercise` Extra space
-  - [ ] `Exercise` Arithmetics
-  - [ ] `Exercise` Fix the code: Print a single line
+### 4\. Arithmetic operations
+- [ ] `Exercise` Times five
+- [ ] `Exercise` Name and age
+- [ ] `Exercise` Seconds in a day
+- [ ] `Exercise` Fix the code: Product
+- [ ] `Exercise` Sum and product
+- [ ] `Exercise` Sum and mean
+- [ ] `Exercise` Food expenditure
+- [ ] `Exercise` Students in groups
 
-### 4\. Arithmetic Operations
+### 5\. Conditional statements
+- [ ] `Exercise` Orwell
+- [ ] `Exercise` Absolute value
+- [ ] `Exercise` Soup or no soup
+- [ ] `Exercise` Order of magnitude
+- [ ] `Exercise` Calculator
+- [ ] `Exercise` Temperatures
+- [ ] `Exercise` Daily wages
+- [ ] `Exercise` Loyalty bonus
+- [ ] `Exercise` What to wear tomorrow
+- [ ] `Exercise` Solving a quadratic equation
+- [ ] `Quiz` Feedback, part 1
 
-  - [ ] `Exercise` Times five
-  - [ ] `Exercise` Name and age
-  - [ ] `Exercise` Seconds in a day
-  - [ ] `Exercise` Fix the code: Product
-  - [ ] `Exercise` Sum and product
-  - [ ] `Exercise` Sum and mean
-  - [ ] `Exercise` Food expenditure
-  - [ ] `Exercise` Students in groups
+---
+<h1>Part 2: Loops with Conditions, Strings, and Functions</h1>
 
-### 5\. Conditional Statements
+### 6\. Programming terminology
+- [ ] `Programming exercise` Fix the syntax
+- [ ] `Programming exercise` Number of characters
+- [ ] `Programming exercise` Typecasting
 
-  - [ ] `Exercise` Orwell
-  - [ ] `Exercise` Absolute value
-  - [ ] `Exercise` Soup or no soup
-  - [ ] `Exercise` Order of magnitude
-  - [ ] `Exercise` Calculator
-  - [ ] `Exercise` Temperatures
-  - [ ] `Exercise` Daily wages
-  - [ ] `Exercise` Loyalty bonus
-  - [ ] `Exercise` What to wear tomorrow
-  - [ ] `Exercise` Solving a quadratic equation
-  - [ ] `Quiz` Feedback, part 1
+### 7\. More conditionals
+- [ ] `Programming exercise` Age of maturity
+- [ ] `Programming exercise` Greater than or equal to
+- [ ] `Programming exercise` The elder
+- [ ] `Programming exercise` Alphabetically last
+
+### 8\. Combining conditions
+- [ ] `Programming exercise` Age check
+- [ ] `Programming exercise` Nephews
+- [ ] `Programming exercise` Grades and points
+- [ ] `Programming exercise` FizzBuzz
+- [ ] `Programming exercise` Leap year
+- [ ] `Programming exercise` Alphabetically in the middle
+- [ ] `Programming exercise` Gift tax calculator
+
+### 9\. Simple loops
+- [ ] `Programming exercise` Shall we continue?
+- [ ] `Programming exercise` Input validation
+- [ ] `Programming exercise` Fix the code: Countdown
+- [ ] `Programming exercise` Repeat password
+- [ ] `Programming exercise` PIN and number of attempts
+- [ ] `Programming exercise` The next leap year
+- [ ] `Programming exercise` Story
+- [ ] `Programming exercise` Working with numbers
+- [ ] `Quiz` Feedback, part 2
+
+---
+<h1>Part 3: Flow Control, String Manipulation, and Functional Logic</h1>
+
+### 10\. Loops with conditions
+- [ ] `Programming exercise` Print numbers
+- [ ] `Programming exercise` Fix the code: Countdown
+- [ ] `Programming exercise` Numbers
+- [ ] `Programming exercise` Powers of two
+- [ ] `Programming exercise` Powers of base n
+- [ ] `Programming exercise` The sum of consecutive numbers, version 1
+- [ ] `Programming exercise` The sum of consecutive numbers, version 2
+
+### 11\. Working with strings
+- [ ] `Programming exercise` String multiplied
+- [ ] `Programming exercise` The longer string
+- [ ] `Programming exercise` End to beginning
+- [ ] `Programming exercise` Second and second to last characters
+- [ ] `Programming exercise` A line of hashes
+- [ ] `Programming exercise` A rectangle of hashes
+- [ ] `Programming exercise` Underlining
+- [ ] `Programming exercise` Right-aligned
+- [ ] `Programming exercise` A framed word
+- [ ] `Programming exercise` Substrings, part 1
+- [ ] `Programming exercise` Substrings, part 2
+- [ ] `Programming exercise` Does it contain vowels
+- [ ] `Programming exercise` Find the first substring
+- [ ] `Programming exercise` Find all the substrings
+- [ ] `Programming exercise` The second occurrence
+
+### 12\. More loops
+- [ ] `Programming exercise` Multiplication
+- [ ] `Programming exercise` First letters of words
+- [ ] `Programming exercise` Factorial
+- [ ] `Programming exercise` Flip the pairs
+- [ ] `Programming exercise` Taking turns
+
+### 13\. Defining functions
+- [ ] `Programming exercise` Seven Brothers
+- [ ] `Programming exercise` The first character
+- [ ] `Programming exercise` Mean
+- [ ] `Programming exercise` Print many times
+- [ ] `Programming exercise` A square of hashes
+- [ ] `Programming exercise` Chessboard
+- [ ] `Programming exercise` A word squared
+- [ ] `Quiz` Feedback, part 3
+---
+
+---
+*University of Helsinki - Department of Computer Science*
