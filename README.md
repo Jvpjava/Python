@@ -61,9 +61,9 @@ To pass either course, you must fulfill the following criteria:
 
 ### 3\. More about variables
 - [x] `Quiz` Background information
-- [ ] `Exercise` Extra space
-- [ ] `Exercise` Arithmetics
-- [ ] `Exercise` Fix the code: Print a single line
+- [ ] `[Exercise` Extra space](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [ ] `Exercise` [Arithmetics](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [ ] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
 
 ### 4\. Arithmetic operations
 - [ ] `Exercise` Times five
