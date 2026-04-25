@@ -61,19 +61,19 @@ To pass either course, you must fulfill the following criteria:
 
 ### 3\. More about variables
 - [x] `Quiz` Background information
-- [ ] `[Exercise` Extra space](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
-- [ ] `Exercise` [Arithmetics](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
-- [ ] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `[Exercise` [Extra space](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `Exercise` [Arithmetics](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
 
 ### 4\. Arithmetic operations
-- [ ] `Exercise` Times five
-- [ ] `Exercise` Name and age
-- [ ] `Exercise` Seconds in a day
-- [ ] `Exercise` Fix the code: Product
-- [ ] `Exercise` Sum and product
-- [ ] `Exercise` Sum and mean
-- [ ] `Exercise` Food expenditure
-- [ ] `Exercise` Students in groups
+- [x] `Exercise` Times five
+- [x] `Exercise` Name and age
+- [x] `Exercise` Seconds in a day
+- [x] `Exercise` Fix the code: Product
+- [x] `Exercise` Sum and product
+- [x] `Exercise` Sum and mean
+- [x] `Exercise` Food expenditure
+- [x] `Exercise` Students in groups
 
 ### 5\. Conditional statements
 - [ ] `Exercise` Orwell
