@@ -59,23 +59,23 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Fix the code: Utterances](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
 - [x] `Exercise` [Story](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/02.Information_from_the_user.py)
 
-### 3\. More about variables
+### 3\. [More about variables](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
 - [x] `Quiz` Background information
-- [ ] `Exercise` Extra space
-- [ ] `Exercise` Arithmetics
-- [ ] `Exercise` Fix the code: Print a single line
+- [x] `[Exercise` [Extra space](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `Exercise` [Arithmetics](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
+- [x] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
 
-### 4\. Arithmetic operations
-- [ ] `Exercise` Times five
-- [ ] `Exercise` Name and age
-- [ ] `Exercise` Seconds in a day
-- [ ] `Exercise` Fix the code: Product
-- [ ] `Exercise` Sum and product
-- [ ] `Exercise` Sum and mean
-- [ ] `Exercise` Food expenditure
-- [ ] `Exercise` Students in groups
+### 4\. [Arithmetic operations](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
+- [x] `Exercise` [Times five](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Name and age](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Seconds in a day](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Fix the code: Product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and mean](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Food expenditure](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
 
-### 5\. Conditional statements
+### 5\. [Conditional statements](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
 - [ ] `Exercise` Orwell
 - [ ] `Exercise` Absolute value
 - [ ] `Exercise` Soup or no soup
