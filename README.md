@@ -66,14 +66,14 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Fix the code: Print a single line](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/03.More_About_Variables.py)
 
 ### 4\. Arithmetic operations
-- [x] `Exercise` Times five
-- [x] `Exercise` Name and age
-- [x] `Exercise` Seconds in a day
-- [x] `Exercise` Fix the code: Product
-- [x] `Exercise` Sum and product
-- [x] `Exercise` Sum and mean
-- [x] `Exercise` Food expenditure
-- [x] `Exercise` Students in groups
+- [x] `[Exercise`[Times five](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Name and age](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Seconds in a day](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Fix the code: Product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and product](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Sum and mean](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Food expenditure](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
+- [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
 
 ### 5\. Conditional statements
 - [ ] `Exercise` Orwell
