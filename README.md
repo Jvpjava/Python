@@ -76,16 +76,16 @@ To pass either course, you must fulfill the following criteria:
 - [x] `Exercise` [Students in groups](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/04.Arithmetic_Operations.py)
 
 ### 5\. [Conditional statements](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/README.md)
-- [ ] `Exercise` Orwell
-- [ ] `Exercise` Absolute value
-- [ ] `Exercise` Soup or no soup
-- [ ] `Exercise` Order of magnitude
-- [ ] `Exercise` Calculator
-- [ ] `Exercise` Temperatures
-- [ ] `Exercise` Daily wages
-- [ ] `Exercise` Loyalty bonus
-- [ ] `Exercise` What to wear tomorrow
-- [ ] `Exercise` Solving a quadratic equation
+- [ ] `Exercise` [Orwell](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Absolute value](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Soup or no soup](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Order of magnitude](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Calculator](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Temperatures](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Daily wages](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Loyalty bonus](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [What to wear tomorrow](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
+- [ ] `Exercise` [Solving a quadratic equation](https://github.com/Jvpjava/Python/blob/main/01.%20Getting%20Started/05.%20Conditional_Statements.py)
 - [ ] `Quiz` Feedback, part 1
 
 ---
